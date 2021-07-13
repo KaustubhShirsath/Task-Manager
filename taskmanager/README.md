@@ -1,6 +1,6 @@
 # FlaskIntroduction
 
-This repo has been updated to work with `Python v3.8` and up.
+Open the Application with - https://chorestack.herokuapp.com/
 
 ### How To Run
 1. Install `virtualenv`:
